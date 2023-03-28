@@ -106,7 +106,7 @@ nav .nav-link {
   margin-top: 10px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 800px) {
   .home img {
     width: 100%;
     height: 585px;
@@ -168,6 +168,8 @@ nav .nav-link {
   .about {
     width: 100%;
     align-items: center;
+    text-align: center;
+    padding: 10px 10px;
   }
 
   .col-md .card {
